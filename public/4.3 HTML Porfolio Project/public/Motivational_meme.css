@@ -1,0 +1,20 @@
+html {
+    background-color: black;
+    color: goldenrod;
+}
+div {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    margin: 100px;
+}
+h1 {
+    text-transform: uppercase;
+}
+#image {
+    width: 100%;
+    border: solid gold;
+}
+
+
+
